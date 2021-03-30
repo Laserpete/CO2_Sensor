@@ -16,7 +16,6 @@ Please keep the above information when you use this code in your project.
 
 #include <NDIR_I2C.h>
 #include <Wire.h>
-#include <stdint.h>
 
 // General Registers
 #define RHR (0x00)
